@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#***********************#
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
+.vscode/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# DADOS (Importante!)
+# Ignora todos os dados brutos e processados para não lotar o repo
+# Você vai subir apenas amostras pequenas ou colocar o link do Google Drive no README
+# dados/brutos/*
+# dados/processados/*
+
+# NOTEBOOK (ANTIGOS OU EM DESUSOS)
+#notebooks/old/*
+
+# Exceção: Manter arquivos pequenos de exemplo se quiser (opcional)
+#!data/raw/.gitkeep
