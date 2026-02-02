@@ -27,9 +27,15 @@ Thumbs.db
 # Você vai subir apenas amostras pequenas ou colocar o link do Google Drive no README
 # dados/brutos/*
 # dados/processados/*
+dados/raster/*
 
 # NOTEBOOK (ANTIGOS OU EM DESUSOS)
 #notebooks/old/*
 
 # Exceção: Manter arquivos pequenos de exemplo se quiser (opcional)
 #!data/raw/.gitkeep
+
+# Projeto QGIS
+*.qgz
+
+dados\brutos\overturemaps\teresina_bbox_building.geojson
