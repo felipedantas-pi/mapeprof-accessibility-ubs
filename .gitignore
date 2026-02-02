@@ -38,4 +38,4 @@ dados/raster/*
 # Projeto QGIS
 *.qgz
 
-dados\brutos\overturemaps\teresina_bbox_building.geojson
+dados/brutos/overturemaps/teresina_bbox_building.geojson
