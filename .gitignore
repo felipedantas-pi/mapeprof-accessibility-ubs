@@ -28,6 +28,7 @@ Thumbs.db
 # dados/brutos/*
 # dados/processados/*
 dados/raster/*
+outputs/vectors/amostra/*
 
 # NOTEBOOK (ANTIGOS OU EM DESUSOS)
 #notebooks/old/*
