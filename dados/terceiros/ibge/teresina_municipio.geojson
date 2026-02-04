@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "teresina_municipio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "CD_MUN": "2211001", "NM_MUN": "Teresina", "CD_RGI": "220001", "NM_RGI": "Teresina", "CD_RGINT": "2201", "NM_RGINT": "Teresina", "CD_UF": "22", "NM_UF": "Piauí", "SIGLA_UF": "PI", "CD_REGIA": "2", "NM_REGIA": "Nordeste", "SIGLA_RG": "NE", "CD_CONCU": "2211001", "NM_CONCU": "Teresina/PI", "AREA_KM2": 1391.293, "width": 0.371694, "height": 0.800325, "area": 0.297476, "perimeter": 2.344037 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -42.9706666, -5.5866025 ], [ -42.5989727, -5.5866025 ], [ -42.5989727, -4.7862778 ], [ -42.9706666, -4.7862778 ], [ -42.9706666, -5.5866025 ] ] ] } }
+]
+}
