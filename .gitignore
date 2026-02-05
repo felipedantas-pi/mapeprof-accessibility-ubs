@@ -28,7 +28,11 @@ Thumbs.db
 # dados/brutos/*
 # dados/processados/*
 dados/raster/*
+
+# Outputs gerados
 outputs/vectors/amostra/*
+outputs/
+*.gpkg
 
 # NOTEBOOK (ANTIGOS OU EM DESUSOS)
 #notebooks/old/*
