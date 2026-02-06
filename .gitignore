@@ -25,21 +25,13 @@ Thumbs.db
 # DADOS (Importante!)
 # Ignora todos os dados brutos e processados para não lotar o repo
 # Você vai subir apenas amostras pequenas ou colocar o link do Google Drive no README
-# dados/brutos/*
-# dados/processados/*
+dados/brutos/overturemaps/building/*
+dados/processados/overturemaps/building/*
 dados/raster/*
 
 # Outputs gerados
 outputs/vectors/amostra/*
-outputs/vectors/*.gpkg
+# outputs/vectors/*.gpkg
 
 # NOTEBOOK (ANTIGOS OU EM DESUSOS)
 #notebooks/old/*
-
-# Exceção: Manter arquivos pequenos de exemplo se quiser (opcional)
-#!data/raw/.gitkeep
-
-# Projeto QGIS
-*.qgz
-
-dados/brutos/overturemaps/teresina_bbox_building.geojson
