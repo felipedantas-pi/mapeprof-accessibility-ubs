@@ -31,7 +31,6 @@ dados/raster/*
 
 # Outputs gerados
 outputs/vectors/amostra/*
-# outputs/vectors/*.gpkg
 
 # NOTEBOOK (ANTIGOS OU EM DESUSOS)
 #notebooks/old/*
