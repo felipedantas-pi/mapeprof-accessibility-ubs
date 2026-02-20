@@ -28,6 +28,8 @@ Thumbs.db
 dados/brutos/overturemaps/building/*
 dados/processados/overturemaps/building/*
 dados/raster/*
+dados/terceiros/semplam/raster/*
+
 
 # Outputs gerados
 outputs/vectors/amostra/*
